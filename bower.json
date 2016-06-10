@@ -1,0 +1,11 @@
+{
+  "name": "tree.spike",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "adapt-strap": "^2.6.0"
+  }
+}
